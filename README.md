@@ -61,7 +61,20 @@ A Star Schema design was adopted, with all dimension tables connected to the fac
 <img width="1086" height="591" alt="Screenshot 2025-11-13 at 1 51 39 PM" src="https://github.com/user-attachments/assets/04d5636f-ef6d-4741-b9a4-6d471cab6e78" />
 
 ## Design visualizations and charts: 
-Relevant chart formats including bar, line, and pie charts—were utilized to illustrate the metrics and insights. Interactive features, such as filters, drill-down options, and tooltips, were implemented to enhance data exploration.
+Relevant chart formats including bar, line, and pie charts were utilized to illustrate the metrics and insights. Interactive features, such as filters, drill-down options, and tooltips, were implemented to enhance data exploration.
+
+<img width="1107" height="612" alt="Screenshot 2025-11-13 at 12 53 00 PM" src="https://github.com/user-attachments/assets/34a05dd9-872f-4722-a0b9-15ebd495cc31" />
+
+# DashboardvTesting and Refinement
+Students had the opportunity to schedule one-on-one sessions with an instructor throughout the project to receive feedback on their work and ensure alignment with the project requirements. Based on the feedback gathered during these sessions, students made necessary adjustments to their dashboard layout, visualizations, and insights to improve overall quality and effectiveness.
+# Highlight Key Insights and Patterns:
+Each student showcased the most significant insights and trends within their dashboard.
+# Insights
+- Europe contributes most bookings and revenue.
+- High cancellation loss ($10.46M) signals a need for stricter policies or dynamic pricing.
+- Summer months (especially August) are the strongest season for revenue.
+- Transient travelers dominate — focus on loyalty programs for individuals.
+- Online channels bring in most revenue — digital marketing remains critical.
 
 
 
