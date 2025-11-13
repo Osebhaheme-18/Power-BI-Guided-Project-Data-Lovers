@@ -22,10 +22,9 @@ Column                 Name	Description
 - Customer_Type	       Transient, Group, Contract, or Transient-Party
 - Booking_Status	     Whether the booking was canceled or completed
 - Market_Segment	     Booking source (Online TA, Direct, Corporate, etc.)
-# Objectives
-- Analyze booking patterns and customer segments.
-- Measure total revenue and revenue loss due to cancellations.
-- Identify top-performing regions, segments, and hotel types.
-- Understand seasonal trends in bookings and revenue.
-- Support data-driven decision-making for pricing and marketing.
+# Project Objectives
+To create a Power BI dashboard that visualizes hotel performance between 2018 and 2020, providing insights into bookings, revenue, cancellations, and customer behavior for better strategic decision-making.
+
+This project enabled us to accomplish the following significant outcomes:
+## Understand Business Objectives and User Requirements
 # Data Sourcing
