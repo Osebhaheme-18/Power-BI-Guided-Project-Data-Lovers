@@ -12,17 +12,17 @@ This project aims to build an interactive Power BI dashboard that consolidates h
 Dataset: Hotel Management (2018–2020)
 Source:  Provided sample dataset
 Column   Name	Description
-Booking_ID	    Unique booking identifier
-Hotel	          Hotel name or type (Resort, City Hotel, etc.)
-Country	        Guest’s country of origin
-Arrival_Date	  Guest arrival date
-Nights	        Number of nights stayed
-Revenue	        Revenue generated per booking
-Deposit_Type	  Booking deposit category (No Deposit, Non-refundable, Refundable)
-Customer_Type	  Transient, Group, Contract, or Transient-Party
-Booking_Status	Whether the booking was canceled or completed
-Market_Segment	Booking source (Online TA, Direct, Corporate, etc.)
-#Objectives
+- Booking_ID	    Unique booking identifier
+- Hotel	          Hotel name or type (Resort, City Hotel, etc.)
+- Country	        Guest’s country of origin
+- Arrival_Date	  Guest arrival date
+- Nights	        Number of nights stayed
+- Revenue	        Revenue generated per booking
+- Deposit_Type	  Booking deposit category (No Deposit, Non-refundable, Refundable)
+- Customer_Type	  Transient, Group, Contract, or Transient-Party
+- Booking_Status	Whether the booking was canceled or completed
+- Market_Segment	Booking source (Online TA, Direct, Corporate, etc.)
+# Objectives
 - Analyze booking patterns and customer segments.
 - Measure total revenue and revenue loss due to cancellations.
 - Identify top-performing regions, segments, and hotel types.
