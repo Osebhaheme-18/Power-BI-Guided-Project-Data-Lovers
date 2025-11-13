@@ -44,7 +44,9 @@ Examples of metrics
 - Average Daily Stay
 ## Dataset preparation:
 We cleaned the dataset by removing duplicates, fixing inconsistencies, and formatting it appropriately for analysis and visualization.
-Data Set before editing
+# Dataset before cleaning
+
 <img width="983" height="593" alt="Screenshot 2025-11-13 at 1 13 54 PM" src="https://github.com/user-attachments/assets/96831e11-709e-4c70-93b4-6620881f2fea" />
-Dataset after cleaning
+
+# Dataset after cleaning
 
