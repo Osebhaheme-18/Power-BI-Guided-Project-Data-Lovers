@@ -27,4 +27,13 @@ To create a Power BI dashboard that visualizes hotel performance between 2018 an
 
 This project enabled us to accomplish the following significant outcomes:
 ## Understand Business Objectives and User Requirements
+We undertook a thorough analysis of the business problem to understand its objectives and requirements, pinpointing the main focus areas and formulating the key questions to be answered.
+## Define Business Questions and Metrics
+Following the analysis conducted in Step 1, we established a set of targeted business questions that the dashboard aims to resolve. Example questions include:
+- Average Lead Time for Hotel Bookings
+- Average Daily Rate (ADR) by Month (2018)
+- What is the overall hotel performance in terms of total bookings, revenue, and revenue loss?
+- How do weekday and weekend performances compare in terms of bookings and revenue?
+- What are the patterns in booking behavior, such as lead time and deposit type and how they impact revenue?
+
 # Data Sourcing
