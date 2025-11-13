@@ -65,16 +65,23 @@ Relevant chart formats including bar, line, and pie charts were utilized to illu
 
 <img width="1107" height="612" alt="Screenshot 2025-11-13 at 12 53 00 PM" src="https://github.com/user-attachments/assets/34a05dd9-872f-4722-a0b9-15ebd495cc31" />
 
-# DashboardvTesting and Refinement
+## DashboardvTesting and Refinement
 Students had the opportunity to schedule one-on-one sessions with an instructor throughout the project to receive feedback on their work and ensure alignment with the project requirements. Based on the feedback gathered during these sessions, students made necessary adjustments to their dashboard layout, visualizations, and insights to improve overall quality and effectiveness.
-# Highlight Key Insights and Patterns:
+## Highlight Key Insights and Patterns:
 Each student showcased the most significant insights and trends within their dashboard.
-# Insights
+## Insights
 - Europe contributes most bookings and revenue.
 - High cancellation loss ($10.46M) signals a need for stricter policies or dynamic pricing.
 - Summer months (especially August) are the strongest season for revenue.
 - Transient travelers dominate — focus on loyalty programs for individuals.
 - Online channels bring in most revenue — digital marketing remains critical.
+## Recommendations
+- Target off season promotions to balance revenue.
+- Reduce refund flexibility or adjust deposit rules.
+- Strengthen online partnerships and optimize OTA listings.
+- Encourage direct bookings through incentives or loyalty benefits.
+- Use lead-time data for forecasting and yield management.
+
 
 
 
