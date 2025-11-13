@@ -35,5 +35,10 @@ Following the analysis conducted in Step 1, we established a set of targeted bus
 - What is the overall hotel performance in terms of total bookings, revenue, and revenue loss?
 - How do weekday and weekend performances compare in terms of bookings and revenue?
 - What are the patterns in booking behavior, such as lead time and deposit type and how they impact revenue?
-
-# Data Sourcing
+## Identify the metrics and Key Performance Indicators (KPIs) that will provide insights to answer the defined business questions.
+Examples of metrics
+- Total Revenue
+- Average Lead Time
+- Total Bookings
+- Revenue Loss
+- Average Daily Stay
