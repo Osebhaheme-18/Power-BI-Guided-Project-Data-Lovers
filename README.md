@@ -46,5 +46,23 @@ Examples of metrics
 We cleaned the dataset by removing duplicates, fixing inconsistencies, and formatting it appropriately for analysis and visualization.
 # Dataset before cleaning
 <img width="983" height="593" alt="Screenshot 2025-11-13 at 1 13 54 PM" src="https://github.com/user-attachments/assets/96831e11-709e-4c70-93b4-6620881f2fea" />
+
 # Dataset after cleaning
+<img width="983" height="593" alt="Screenshot 2025-11-13 at 1 13 54 PM" src="https://github.com/user-attachments/assets/88470125-1a8e-415f-8934-29cd9499359f" />
+
+# Data Modeling
+The key dimensions for breaking down the analysis were identified, and corresponding tables were created for each. These included:
+- Locatiom Dim
+- Hotel Dim
+- Date Dim
+- To improve analytical accuracy and insight, additional features were generated.
+A Star Schema design was adopted, with all dimension tables connected to the fact table in a one-to-many configuration.
+
+<img width="1086" height="591" alt="Screenshot 2025-11-13 at 1 51 39 PM" src="https://github.com/user-attachments/assets/04d5636f-ef6d-4741-b9a4-6d471cab6e78" />
+## Design visualizations and charts: 
+Relevant chart formats including bar, line, and pie charts—were utilized to illustrate the metrics and insights. Interactive features, such as filters, drill-down options, and tooltips, were implemented to enhance data exploration.
+
+
+
+
 
