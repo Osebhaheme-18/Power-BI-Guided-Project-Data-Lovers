@@ -59,6 +59,7 @@ The key dimensions for breaking down the analysis were identified, and correspon
 A Star Schema design was adopted, with all dimension tables connected to the fact table in a one-to-many configuration.
 
 <img width="1086" height="591" alt="Screenshot 2025-11-13 at 1 51 39 PM" src="https://github.com/user-attachments/assets/04d5636f-ef6d-4741-b9a4-6d471cab6e78" />
+
 ## Design visualizations and charts: 
 Relevant chart formats including bar, line, and pie charts—were utilized to illustrate the metrics and insights. Interactive features, such as filters, drill-down options, and tooltips, were implemented to enhance data exploration.
 
