@@ -42,3 +42,6 @@ Examples of metrics
 - Total Bookings
 - Revenue Loss
 - Average Daily Stay
+## Dataset preparation:
+We cleaned the dataset by removing duplicates, fixing inconsistencies, and formatting it appropriately for analysis and visualization.
+Data Set before editing
