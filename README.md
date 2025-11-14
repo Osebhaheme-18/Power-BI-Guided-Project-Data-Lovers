@@ -48,7 +48,7 @@ We cleaned the dataset by removing duplicates, fixing inconsistencies, and forma
 <img width="983" height="593" alt="Screenshot 2025-11-13 at 1 13 54 PM" src="https://github.com/user-attachments/assets/96831e11-709e-4c70-93b4-6620881f2fea" />
 
 # Dataset after cleaning
-<img width="983" height="593" alt="Screenshot 2025-11-13 at 1 13 54 PM" src="https://github.com/user-attachments/assets/88470125-1a8e-415f-8934-29cd9499359f" />
+
 
 # Data Modeling
 The key dimensions for breaking down the analysis were identified, and corresponding tables were created for each. These included:
