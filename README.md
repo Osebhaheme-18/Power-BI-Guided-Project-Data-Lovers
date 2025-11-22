@@ -58,7 +58,8 @@ The key dimensions for breaking down the analysis were identified, and correspon
 - To improve analytical accuracy and insight, additional features were generated.
 A Star Schema design was adopted, with all dimension tables connected to the fact table in a one-to-many configuration.
 
-<img width="1086" height="591" alt="Screenshot 2025-11-13 at 1 51 39 PM" src="https://github.com/user-attachments/assets/04d5636f-ef6d-4741-b9a4-6d471cab6e78" />
+![WhatsApp Image 2025-11-21 at 11 46 31 PM](https://github.com/user-attachments/assets/de7cbbf6-88e1-4f1f-819a-46c98b94c19a)
+
 
 ## Design visualizations and charts: 
 Relevant chart formats including bar, line, and pie charts were utilized to illustrate the metrics and insights. Interactive features, such as filters, drill-down options, and tooltips, were implemented to enhance data exploration.
@@ -73,14 +74,14 @@ Each student showcased the most significant insights and trends within their das
 - Europe contributes most bookings and revenue.
 - High cancellation loss ($10.46M) signals a need for stricter policies or dynamic pricing.
 - Summer months (especially August) are the strongest season for revenue.
-- Transient travelers dominate — focus on loyalty programs for individuals.
-- Online channels bring in most revenue — digital marketing remains critical.
+- Transient travelers dominate the market we can focus on loyalty programs for individuals.
+- Online channels bring in most revenue so digital marketing is very critical.
 ## Recommendations
 - Target off season promotions to balance revenue.
 - Reduce refund flexibility or adjust deposit rules.
-- Strengthen online partnerships and optimize OTA listings.
-- Encourage direct bookings through incentives or loyalty benefits.
-- Use lead-time data for forecasting and yield management.
+- Strengthen online partnerships so that we can optimize OTA listings.
+- Encourage direct bookings through incentives or loyalty programs.
+- Use lead-time data for forecasting.
 
 
 
